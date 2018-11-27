@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="main_notification_channel_name">Primary</string>
+    <string name="refreshing_reminder_notification_title">Should we check for more news?</string>
+    <string name="refreshing_reminder_notification_body">Let\'s update to get more recent news!</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+</resources>
+
